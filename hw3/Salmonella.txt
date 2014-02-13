@@ -1,0 +1,12 @@
+surface presentation of antigens [Salmonella enterica subsp. enterica serovar Typhimurium]
+
+ATP synthase SpaL [Salmonella enterica]
+
+flagellum-specific ATP synthase [Salmonella enterica
+
+virulence-associated secretory apparatus ATP synthase [Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150]
+
+ATP synthase SpaL [Salmonella enterica]
+
+
+ATP synthase SpaL [Salmonella enterica]
