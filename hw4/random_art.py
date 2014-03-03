@@ -75,9 +75,9 @@ def remap_interval(val, input_interval_start, input_interval_end, output_interva
 def pretty_little_masterpiece(filename):
     """create the image of the pretty pictures. Take the RGB functions and change the pixelation. This then fills the empty
     image that is created."""
-    function_red=build_random_function(0,6)
-    function_green=build_random_function(0,7)
-    function_blue=build_random_function(0,5)
+    function_red=build_random_function(9,20)
+    function_green=build_random_function(5,9)
+    function_blue=build_random_function(3,9)
     im=Image.new("RGB",(1600,900)) 
     pixels=im.load()
     for x in range(0,1600):# this loop looks at the color of x value...
